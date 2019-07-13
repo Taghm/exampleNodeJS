@@ -1,2 +1,2 @@
 # exampleNodeJS
-# simple example in Node JS on how to deploy an app -- and escaping the nodemon trap.
+# simple example on how to deploy a Node JS app to heroku -- and escaping the nodemon *** problem.
