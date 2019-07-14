@@ -15,5 +15,8 @@
   "engines": {
     "node": "12.1.0",
     "npm": "6.9.0"
+  },
+  "dev": {
+   "nodemon server.js -e js,html";
   }
 }
