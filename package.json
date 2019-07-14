@@ -17,6 +17,6 @@
     "npm": "6.9.0"
   },
   "dev": {
-   "nodemon server.js -e js,html";
+   "nodemon server.js -e js,html"
   }
 }
